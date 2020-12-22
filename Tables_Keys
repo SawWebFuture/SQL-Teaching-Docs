@@ -1,0 +1,20 @@
+Table defines infor about the people
+
+- Columns = vertical 
+- rows = entry
+
+- primary key = gets info from row
+-- allows same input to be different
+-- always define - can be other than id
+
+saragate key: type of primary key
+natural key: emp_ssn: purpose in real world and not just in database
+forgein key: link to another table (stores primary key from other table)
+
+- find relationships between tables
+
+super id
+
+- Composite key = new items this and that. 
+-- only together can they both be meaningful
+
