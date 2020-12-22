@@ -1,0 +1,14 @@
+Sql is a hybrid language 4 types
+
+1. Data Query Language
+- get data already stored
+
+2. Data Definition Language
+- define db schemas
+
+3. Data Control Language
+- control access
+- user  permissions
+
+4. Data Manipulation Language
+- inserting, updating, deleting data
