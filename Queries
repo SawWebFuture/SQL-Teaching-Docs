@@ -1,0 +1,5 @@
+Set of instructions given to the RDBMS you want to retrieve for you
+
+Select *
+From table_name
+Where 
