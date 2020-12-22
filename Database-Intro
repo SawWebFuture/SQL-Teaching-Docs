@@ -1,0 +1,29 @@
+What is a database: Any collection of related info - can be stored in anyway.
+
+Computers + Databases = love
+
+Amazon.com (infinite, security, stored on computer) vs Shopping list (10 or 20, not secure, paper):
+
+- Database is everywhere
+- Computer are good at managing large amounts of infomation
+
+Database Management Systems (DBMS) = Software program, interact with other databases
+
+- site -> database
+- CRUD: Create Read Update Delete
+- Two Types, 
+-- SQL (organizes in tables and rows, columns, unique key), 
+-- nonRelational noSQL (general without table structural) (Key-value stores, douments, graphs, flexible tables)
+--- JSON, BLOB, XML, etc.: Mongodb, firebase: No SQL
+
+
+- Relational Database Management Systems: mySQL, mariaDB
+- SQL Structured Query Language
+-- standard but not always with all dbs
+
+Queries are requests made to the db managment system for specific info
+- more complex makes it harder to get the correct info
+- google search is a query
+
+
+
