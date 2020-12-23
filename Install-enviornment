@@ -1,0 +1,9 @@
+Install MySQL
+- build and run database
+
+-- error
+Mysql JS>  \sql
+Mysql SQL>  \connect root@localhost
+
+Popsql
+- visualize the database
